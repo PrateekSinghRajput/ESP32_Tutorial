@@ -1,2 +1,2 @@
 # ESP32_Tutorial
-In this Article, we will guide you through the process of installing the ESP32 board in the Arduino IDE. Follow these simple steps to set up your development environment and start working on exciting ESP32 projects. 
+In this article, we will guide you through the process of installing the ESP32 board in the Arduino IDE. Follow these simple steps to set up your development environment and start working on exciting ESP32 projects. 
